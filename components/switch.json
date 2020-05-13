@@ -1,0 +1,113 @@
+{
+    "info": {
+        "part-number": "JS202011SCQN", 
+        "suppliers": {
+            "farnell": "2320019"
+        }, 
+        "notes": "", 
+        "description": "DPDT switch", 
+        "manufacturer": "C&K"
+    }, 
+    "pins": {
+        "1": {
+            "layout": {
+                "pad": "pad", 
+                "location": [
+                    -2.5, 
+                    2.75
+                ]
+            }
+        }, 
+        "3": {
+            "layout": {
+                "pad": "pad", 
+                "location": [
+                    2.5, 
+                    2.75
+                ]
+            }
+        }, 
+        "2": {
+            "layout": {
+                "pad": "pad", 
+                "location": [
+                    0, 
+                    2.75
+                ]
+            }
+        }, 
+        "5": {
+            "layout": {
+                "pad": "pad", 
+                "location": [
+                    0, 
+                    -2.75
+                ]
+            }
+        }, 
+        "4": {
+            "layout": {
+                "pad": "pad", 
+                "location": [
+                    -2.5, 
+                    -2.75
+                ]
+            }
+        }, 
+        "6": {
+            "layout": {
+                "pad": "pad", 
+                "location": [
+                    2.5, 
+                    -2.75
+                ]
+            }
+        }
+    }, 
+    "pads": {
+        "pad": {
+            "shapes": [
+                {
+                    "width": 1.2, 
+                    "radii": {
+                        "bl": 0.05, 
+                        "tl": 0.05, 
+                        "tr": 0.05, 
+                        "br": 0.05
+                    }, 
+                    "type": "rect", 
+                    "outline": 0, 
+                    "height": 2.5
+                }
+            ]
+        }
+    }, 
+    "layout": {
+        "silkscreen": {
+            "shapes": [
+                {
+                    "width": 9.5, 
+                    "type": "rect", 
+                    "location": [
+                        0, 
+                        0
+                    ], 
+                    "height": 3.7
+                }
+            ]
+        }, 
+        "assembly": {
+            "shapes": [
+                {
+                    "width": 9, 
+                    "type": "rect", 
+                    "location": [
+                        0, 
+                        0
+                    ], 
+                    "height": 3.2
+                }
+            ]
+        }
+    }
+}
